@@ -8,7 +8,7 @@ O codigo.cpp tem o objetivo de calcular, com 4 casas decimais de precisão, o va
 Primeiro, deve-se dar ao programa os seguintes dados:
 - O início do intervalo (a) --> linha 7;
 - O final do intervalo (b) --> linha 8;
-- A funçã f(x) --> linha 24.
+- A função f(x) --> linha 24.
 
 Em seguida, o programa calculará a integral definida de f(x) pelo método dos retângulos (soma de Riemann), seguindo estes passos após a sua preparação com os dados anteriores:
 1. Define a variável inicio e a variável fim (o início e o final do intervalo [a,b]);
