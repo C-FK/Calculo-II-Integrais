@@ -34,7 +34,7 @@ Os testes a seguir foram utilizados para testar o funcionamento do programa:
 5. Integral de função exponencial
 -    $\int_0^{ln(3)} e^x dx$ , que resulta em 2
 6. Integral de função logarítmica
--    $\int_1^{e^2} ln(x) dx$ , que resulta em $e^x$ + 1
+-    $\int_1^{e^2} ln(x) dx$ , que resulta em $e^2$ + 1
 7. Integral de função racional
 -    $\int_1^2 1/(x+1) dx$ , que resulta em 0,405465...
 8. Integral de identidades trigonométricas
