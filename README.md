@@ -21,6 +21,8 @@ Em seguida, o programa calculará a integral definida de f(x) pelo método dos r
 5. Dentro de um loop (enquanto x estiver dentro do intervalo [a,b]), serão calculados os valores das variáveis altura e, em seguida, area. Somando-se o valor da área à variável resp, que, ao final do loop, conterá a resposta final da soma de Riemann;
 6. Por fim, o programa retorna o valor da integral definida calculada com quatro casas decimais de precisão.
 
+Vídeo do funcionamento: https://youtu.be/Gbs9ZxiKAAU?si=zpwbAOY6lrvZ0xrq
+
 # Testes unitários
 Os testes a seguir foram utilizados para testar o funcionamento do programa:
 1. Integral de função identidade 
