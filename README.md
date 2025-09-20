@@ -24,18 +24,18 @@ Em seguida, o programa calculará a integral definida de f(x) pelo método dos r
 # Testes unitários
 Os testes a seguir foram utilizados para testar o funcionamento do programa:
 1. Integral de função identidade 
--    $\int_0^3 x \,dx$ , que resulta em 4,5
+-    $\int_0^3 x  dx$ , que resulta em 4,5
 2. Integral de função quadrática
--    $\int_0^1 x^2+1 \,dx$ , que resulta em 1,3333...
+-    $\int_0^1 x^2+1  dx$ , que resulta em 1,3333...
 3. Integral de função ímpar em intervalo simétrico
--    $\int_{-1}^1 x^3-3x \,dx$ , que resulta em 0
+-    $\int_{-1}^1 x^3-3x dx$ , que resulta em 0
 4. Integral de função cosseno
--    $\int_{π/2}^{π} cos(x) \,dx$ , que resulta em -1
+-    $\int_{π/2}^{π} cos(x) dx$ , que resulta em -1
 5. Integral de função exponencial
--    $\int_{ln(3)}^1 e^x \,dx$ , que resulta em 2
+-    $\int_{ln(3)}^1 e^x dx$ , que resulta em 2
 6. Integral de função logarítmica
--    $\int_1^{e^2} ln(x) \,dx$ , que resulta em $e^x$ + 1
+-    $\int_1^{e^2} ln(x) dx$ , que resulta em $e^x$ + 1
 7. Integral de função racional
--    $\int_1^2 1/(x+1) \,dx$ , que resulta em 0,405465...
+-    $\int_1^2 1/(x+1) dx$ , que resulta em 0,405465...
 8. Integral de identidades trigonométricas
--    $\int_0^{π} cos(x)^2 \,dx$ , que resulta em 1,570796...
+-    $\int_0^{π} cos(x)^2 dx$ , que resulta em 1,570796...
