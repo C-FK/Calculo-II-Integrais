@@ -32,7 +32,7 @@ Os testes a seguir foram utilizados para testar o funcionamento do programa:
 4. Integral de função cosseno
 -    $\int_{π/2}^{π} cos(x) dx$ , que resulta em -1
 5. Integral de função exponencial
--    $\int_{ln(3)}^1 e^x dx$ , que resulta em 2
+-    $\int_1^{ln(3)} e^x dx$ , que resulta em 2
 6. Integral de função logarítmica
 -    $\int_1^{e^2} ln(x) dx$ , que resulta em $e^x$ + 1
 7. Integral de função racional
